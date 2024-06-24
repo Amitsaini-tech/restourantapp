@@ -49,7 +49,7 @@ const HomeContainer = () => {
           <p className="text-sm rgba(156, 160, 171, 1) font-semibold">
             <span className="text-s text-red-600">Rs. </span>
             {n.Price}</p>
-
+<div>hello</div>
         </div>
 
         ))}
